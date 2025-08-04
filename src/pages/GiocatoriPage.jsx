@@ -154,7 +154,14 @@ const GiocatoriPage = () => {
                   key={i}
                   className={i % 2 === 0 ? 'bg-white' : 'bg-gray-100 text-black'}
                 >
-                  <td className="px-4 py-2 border border-black text-center">{g.nome}</td>
+                  <td className="px-4 py-2 border border-black text-center">
+  <a
+    href={`/giocatore/${encodeURIComponent(g.nome)}`}
+    className="text-blue-700 hover:underline"
+  >
+    {g.nome}
+  </a>
+</td>
                   <td className="px-4 py-2 border border-black text-center">{roleMap[g.ruolo]}</td>
                   <td className="px-4 py-2 border border-black text-center">{g.squadra}</td>
                   <td className="px-4 py-2 border border-black text-center">{g.qt_iniziale}</td>

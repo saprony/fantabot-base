@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import GiocatoriPage from './pages/GiocatoriPage';
 import Magnifici5Page from './pages/Magnifici5Page';
+import GiocatorePage from './pages/GiocatorePage';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/" element={<h1>Benvenuto su FantaBot!</h1>} />
           <Route path="/giocatori" element={<GiocatoriPage />} />
           <Route path="/magnifici5" element={<Magnifici5Page />} />
+          <Route path="/giocatore/:nome" element={<GiocatorePage />} />
         </Routes>
       </div>
     </Router>

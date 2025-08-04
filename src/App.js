@@ -5,6 +5,7 @@ import Magnifici5Page from './pages/Magnifici5Page';
 import GiocatorePage from './pages/GiocatorePage';
 import AdminLoginPage from './pages/AdminLoginPage';
 import AdminDashboardPage from './pages/AdminDashboardPage';
+import ConsigliPage from './pages/ConsigliPage';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/giocatore/:nome" element={<GiocatorePage />} />
           <Route path="/admin" element={<AdminLoginPage />} />
 <Route path="/admin/dashboard" element={<AdminDashboardPage />} />
+<Route path="/consigli" element={<ConsigliPage />} />
         </Routes>
       </div>
     </Router>

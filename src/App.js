@@ -11,7 +11,7 @@ function App() {
         <li>📰 Leggere news dai principali siti sportivi</li>
         <li>📊 Analizzare quotazioni, prestazioni e underdog</li>
       </ul>
-      <p style={{ marginTop: '2rem' }}>Stay tuned… 🚀</p>
+      <p style={{ marginTop: '2rem' }}>Stay tuned…. 🚀</p>
     </div>
   );
 }

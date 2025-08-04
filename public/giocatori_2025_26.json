@@ -1,3593 +1,3593 @@
 [
   {
-    "nome":"Sommer",
-    "squadra":"Inter",
-    "ruolo":"P",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Sommer",
+    "ruolo": "P",
+    "squadra": "Inter",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Di Gregorio",
-    "squadra":"Juventus",
-    "ruolo":"P",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Di Gregorio",
+    "ruolo": "P",
+    "squadra": "Juventus",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Maignan",
-    "squadra":"Milan",
-    "ruolo":"P",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Maignan",
+    "ruolo": "P",
+    "squadra": "Milan",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Meret",
-    "squadra":"Napoli",
-    "ruolo":"P",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Meret",
+    "ruolo": "P",
+    "squadra": "Napoli",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Svilar",
-    "squadra":"Roma",
-    "ruolo":"P",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Svilar",
+    "ruolo": "P",
+    "squadra": "Roma",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Carnesecchi",
-    "squadra":"Atalanta",
-    "ruolo":"P",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Carnesecchi",
+    "ruolo": "P",
+    "squadra": "Atalanta",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"De Gea",
-    "squadra":"Fiorentina",
-    "ruolo":"P",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "De Gea",
+    "ruolo": "P",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Provedel",
-    "squadra":"Lazio",
-    "ruolo":"P",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Provedel",
+    "ruolo": "P",
+    "squadra": "Lazio",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Skorupski",
-    "squadra":"Bologna",
-    "ruolo":"P",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Skorupski",
+    "ruolo": "P",
+    "squadra": "Bologna",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Butez",
-    "squadra":"Como",
-    "ruolo":"P",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Butez",
+    "ruolo": "P",
+    "squadra": "Como",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Israel",
-    "squadra":"Torino",
-    "ruolo":"P",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Israel",
+    "ruolo": "P",
+    "squadra": "Torino",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Leali",
-    "squadra":"Genoa",
-    "ruolo":"P",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Leali",
+    "ruolo": "P",
+    "squadra": "Genoa",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Caprile",
-    "squadra":"Cagliari",
-    "ruolo":"P",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Caprile",
+    "ruolo": "P",
+    "squadra": "Cagliari",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Suzuki",
-    "squadra":"Parma",
-    "ruolo":"P",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Suzuki",
+    "ruolo": "P",
+    "squadra": "Parma",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Turati",
-    "squadra":"Sassuolo",
-    "ruolo":"P",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Turati",
+    "ruolo": "P",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Falcone",
-    "squadra":"Lecce",
-    "ruolo":"P",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Falcone",
+    "ruolo": "P",
+    "squadra": "Lecce",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Okoye",
-    "squadra":"Udinese",
-    "ruolo":"P",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Okoye",
+    "ruolo": "P",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Audero",
-    "squadra":"Cremonese",
-    "ruolo":"P",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Audero",
+    "ruolo": "P",
+    "squadra": "Cremonese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Montipò",
-    "squadra":"Verona",
-    "ruolo":"P",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Montipò",
+    "ruolo": "P",
+    "squadra": "Verona",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Milinkovic-Savic V.",
-    "squadra":"Napoli",
-    "ruolo":"P",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Milinkovic-Savic V.",
+    "ruolo": "P",
+    "squadra": "Napoli",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Sava",
-    "squadra":"Udinese",
-    "ruolo":"P",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Sava",
+    "ruolo": "P",
+    "squadra": "Udinese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ravaglia F.",
-    "squadra":"Bologna",
-    "ruolo":"P",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Ravaglia F.",
+    "ruolo": "P",
+    "squadra": "Bologna",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Mandas",
-    "squadra":"Lazio",
-    "ruolo":"P",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Mandas",
+    "ruolo": "P",
+    "squadra": "Lazio",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Scuffet",
-    "squadra":"Pisa",
-    "ruolo":"P",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Scuffet",
+    "ruolo": "P",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Semper",
-    "squadra":"Pisa",
-    "ruolo":"P",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Semper",
+    "ruolo": "P",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Martinez Jo.",
-    "squadra":"Inter",
-    "ruolo":"P",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Martinez Jo.",
+    "ruolo": "P",
+    "squadra": "Inter",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Rossi F.",
-    "squadra":"Atalanta",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Rossi F.",
+    "ruolo": "P",
+    "squadra": "Atalanta",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Sportiello",
-    "squadra":"Atalanta",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Sportiello",
+    "ruolo": "P",
+    "squadra": "Atalanta",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Pessina Mas.",
-    "squadra":"Bologna",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Pessina Mas.",
+    "ruolo": "P",
+    "squadra": "Bologna",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Ciocci",
-    "squadra":"Cagliari",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Ciocci",
+    "ruolo": "P",
+    "squadra": "Cagliari",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Radunovic",
-    "squadra":"Cagliari",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Radunovic",
+    "ruolo": "P",
+    "squadra": "Cagliari",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Vigorito",
-    "squadra":"Como",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Vigorito",
+    "ruolo": "P",
+    "squadra": "Como",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Nava",
-    "squadra":"Cremonese",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Nava",
+    "ruolo": "P",
+    "squadra": "Cremonese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Martinelli T.",
-    "squadra":"Fiorentina",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Martinelli T.",
+    "ruolo": "P",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Siegrist",
-    "squadra":"Genoa",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Siegrist",
+    "ruolo": "P",
+    "squadra": "Genoa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Sommariva",
-    "squadra":"Genoa",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Sommariva",
+    "ruolo": "P",
+    "squadra": "Genoa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Di Gennaro",
-    "squadra":"Inter",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Di Gennaro",
+    "ruolo": "P",
+    "squadra": "Inter",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Perin",
-    "squadra":"Juventus",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Perin",
+    "ruolo": "P",
+    "squadra": "Juventus",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Pinsoglio",
-    "squadra":"Juventus",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Pinsoglio",
+    "ruolo": "P",
+    "squadra": "Juventus",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Furlanetto",
-    "squadra":"Lazio",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Furlanetto",
+    "ruolo": "P",
+    "squadra": "Lazio",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Fruchtl",
-    "squadra":"Lecce",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Fruchtl",
+    "ruolo": "P",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Samooja",
-    "squadra":"Lecce",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Samooja",
+    "ruolo": "P",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Terracciano",
-    "squadra":"Milan",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Terracciano",
+    "ruolo": "P",
+    "squadra": "Milan",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Torriani",
-    "squadra":"Milan",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Torriani",
+    "ruolo": "P",
+    "squadra": "Milan",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Contini",
-    "squadra":"Napoli",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Contini",
+    "ruolo": "P",
+    "squadra": "Napoli",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Corvi",
-    "squadra":"Parma",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Corvi",
+    "ruolo": "P",
+    "squadra": "Parma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Rinaldi",
-    "squadra":"Parma",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Rinaldi",
+    "ruolo": "P",
+    "squadra": "Parma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Nicolas",
-    "squadra":"Pisa",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Nicolas",
+    "ruolo": "P",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Zelezny",
-    "squadra":"Roma",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Zelezny",
+    "ruolo": "P",
+    "squadra": "Roma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Gollini",
-    "squadra":"Roma",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Gollini",
+    "ruolo": "P",
+    "squadra": "Roma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Russo A.",
-    "squadra":"Sassuolo",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Russo A.",
+    "ruolo": "P",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Satalino",
-    "squadra":"Sassuolo",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Satalino",
+    "ruolo": "P",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Donnarumma An.",
-    "squadra":"Torino",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Donnarumma An.",
+    "ruolo": "P",
+    "squadra": "Torino",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Paleari",
-    "squadra":"Torino",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Paleari",
+    "ruolo": "P",
+    "squadra": "Torino",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Popa",
-    "squadra":"Torino",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Popa",
+    "ruolo": "P",
+    "squadra": "Torino",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Padelli",
-    "squadra":"Udinese",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Padelli",
+    "ruolo": "P",
+    "squadra": "Udinese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Perilli",
-    "squadra":"Verona",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Perilli",
+    "ruolo": "P",
+    "squadra": "Verona",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Vasquez D.",
-    "squadra":"Roma",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Vasquez D.",
+    "ruolo": "P",
+    "squadra": "Roma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Nunziante",
-    "squadra":"Udinese",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Nunziante",
+    "ruolo": "P",
+    "squadra": "Udinese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Lezzerini",
-    "squadra":"Fiorentina",
-    "ruolo":"P",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Lezzerini",
+    "ruolo": "P",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Dumfries",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Dumfries",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Dimarco",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Dimarco",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Gosens",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":18,
-    "qt_attuale":18
+    "nome": "Gosens",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 18,
+    "qt_attuale": 18
   },
   {
-    "nome":"Zortea",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Zortea",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Bastoni",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Bastoni",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Cambiaso",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Cambiaso",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Angelino",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Angelino",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Di Lorenzo",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Di Lorenzo",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Wesley",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Wesley",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Bellanova",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Bellanova",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Zappacosta",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Zappacosta",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Bremer",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Bremer",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Buongiorno",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Buongiorno",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Tavares N.",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Tavares N.",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Hien",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Hien",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Dodò",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Dodò",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Estupinan",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Estupinan",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Rrahmani",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Rrahmani",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Mancini",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Mancini",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Solet",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Solet",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Martin",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Martin",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Carlos Augusto",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Carlos Augusto",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Beukema",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Beukema",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Olivera",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Olivera",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Valeri",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Valeri",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"N'Dicka",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "N'Dicka",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Kossounou",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Kossounou",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Miranda J.",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Miranda J.",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Vasquez",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Vasquez",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Acerbi",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Acerbi",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Bisseck",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Bisseck",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"De Vrij",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "De Vrij",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Kalulu",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Kalulu",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Gila",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Gila",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Djimsiti",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Djimsiti",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Scalvini",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Scalvini",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Lucumì",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Lucumì",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Vitik",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Vitik",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Holm",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Holm",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"De Winter",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "De Winter",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Pavard",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Pavard",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Gatti",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Gatti",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Joao Mario",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Joao Mario",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Romagnoli",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Romagnoli",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Marusic",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Marusic",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Baschirotto",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Baschirotto",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Gaspar K.",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Gaspar K.",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Tomori",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Tomori",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Delprato",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Delprato",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Coco",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Coco",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Ismajli",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Ismajli",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Biraghi",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Biraghi",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Tchatchoua",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Tchatchoua",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Kolasinac",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Kolasinac",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Luperto",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Luperto",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Mina",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Mina",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Comuzzo",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Comuzzo",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Marì",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Marì",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Ranieri L.",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Ranieri L.",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Kelly L.",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Kelly L.",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Pavlovic",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Pavlovic",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Spinazzola",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Spinazzola",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Leoni",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Leoni",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Celik",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Celik",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Maripan",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Maripan",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Lazaro",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Lazaro",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Kamara H.",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Kamara H.",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Ahanor",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Ahanor",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Zappa",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Zappa",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Vojvoda",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Vojvoda",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Valle",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Valle",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Gabbia",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Gabbia",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Doig",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Doig",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Bertola",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Bertola",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Posch",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Posch",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Lykogiannis",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Lykogiannis",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Kempf",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Kempf",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Floriani Mussolini",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Floriani Mussolini",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Pezzella Giu.",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Pezzella Giu.",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Pongracic",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Pongracic",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Parisi",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Parisi",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Sabelli",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Sabelli",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Cabal",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Cabal",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Gallo",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Gallo",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Jimenez A.",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Jimenez A.",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Circati",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Circati",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Angori",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Angori",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Rensch",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Rensch",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Muharemovic",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Muharemovic",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Walukiewicz",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Walukiewicz",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Kristensen T.",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Kristensen T.",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Ehizibue",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Ehizibue",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Unai Nunez",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Unai Nunez",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Ostigard",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Ostigard",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Casale",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Casale",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"De Silvestri",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "De Silvestri",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Obert",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Obert",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Dossena",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Dossena",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Goldaniga",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Goldaniga",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Van Der Brempt",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Van Der Brempt",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Folino",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Folino",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ceccherini",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Ceccherini",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Viti",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Viti",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Darmian",
-    "squadra":"Inter",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Darmian",
+    "ruolo": "D",
+    "squadra": "Inter",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Gigot",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Gigot",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Patric",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Patric",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Lazzari",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Lazzari",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Kouassi",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Kouassi",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Thiaw",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Thiaw",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Valenti",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Valenti",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Caracciolo A.",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Caracciolo A.",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Mateus Lusuardi",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Mateus Lusuardi",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Salah-Eddine",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Salah-Eddine",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Romagna",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Romagna",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Pedersen",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Pedersen",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ghilardi",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Ghilardi",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Valentini N.",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Valentini N.",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ebosse",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Ebosse",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ramon",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Ramon",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Bradaric",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Bradaric",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Palestra",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Palestra",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Idrissi R.",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Idrissi R.",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Moreno Alb.",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Moreno Alb.",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Bianchetti",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Bianchetti",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Azzi",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Azzi",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Barbieri",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Barbieri",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Fortini",
-    "squadra":"Fiorentina",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Fortini",
+    "ruolo": "D",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Marcandalli",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Marcandalli",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Vogliacco",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Vogliacco",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Norton-Cuffy",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Norton-Cuffy",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Rugani",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Rugani",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Savona",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Savona",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Provstgaard",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Provstgaard",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Pellegrini Lu.",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Pellegrini Lu.",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Hysaj",
-    "squadra":"Lazio",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Hysaj",
+    "ruolo": "D",
+    "squadra": "Lazio",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Jean",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Jean",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Bartesaghi",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Bartesaghi",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Marianucci",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Marianucci",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Juan Jesus",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Juan Jesus",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Zanoli",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Zanoli",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Mazzocchi",
-    "squadra":"Napoli",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Mazzocchi",
+    "ruolo": "D",
+    "squadra": "Napoli",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Balogh",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Balogh",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Canestrelli",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Canestrelli",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Calabresi",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Calabresi",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Hermoso",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Hermoso",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Odenthal",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Odenthal",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Schuurs",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Schuurs",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Masina",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Masina",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Giannetti L.",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Giannetti L.",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Kabasele",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Kabasele",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Zemura",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Zemura",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Rui Modesto",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Rui Modesto",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Frese",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Frese",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Bonfanti",
-    "squadra":"Atalanta",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Bonfanti",
+    "ruolo": "D",
+    "squadra": "Atalanta",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Di Pardo",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Di Pardo",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Smolcic I.",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Smolcic I.",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Jack",
-    "squadra":"Como",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Jack",
+    "ruolo": "D",
+    "squadra": "Como",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Ravanelli",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Ravanelli",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Otoa",
-    "squadra":"Genoa",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Otoa",
+    "ruolo": "D",
+    "squadra": "Genoa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Terracciano F.",
-    "squadra":"Milan",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Terracciano F.",
+    "ruolo": "D",
+    "squadra": "Milan",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Hainaut",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Hainaut",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Lovik",
-    "squadra":"Parma",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Lovik",
+    "ruolo": "D",
+    "squadra": "Parma",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Rus",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Rus",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Kumbulla",
-    "squadra":"Roma",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Kumbulla",
+    "ruolo": "D",
+    "squadra": "Roma",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Missori",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Missori",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Pieragnolo",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Pieragnolo",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Slotsager",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Slotsager",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Oyegoke",
-    "squadra":"Verona",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Oyegoke",
+    "ruolo": "D",
+    "squadra": "Verona",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Denoon",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Denoon",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Ilic M.",
-    "squadra":"Bologna",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Ilic M.",
+    "ruolo": "D",
+    "squadra": "Bologna",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Veroli",
-    "squadra":"Cagliari",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Veroli",
+    "ruolo": "D",
+    "squadra": "Cagliari",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Sernicola",
-    "squadra":"Cremonese",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Sernicola",
+    "ruolo": "D",
+    "squadra": "Cremonese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Rouhi",
-    "squadra":"Juventus",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Rouhi",
+    "ruolo": "D",
+    "squadra": "Juventus",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Tiago Gabriel",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Tiago Gabriel",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Perez M.",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Perez M.",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Veiga D.",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Veiga D.",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Ndaba",
-    "squadra":"Lecce",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Ndaba",
+    "ruolo": "D",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Coppola F.",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Coppola F.",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Mbambi",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Mbambi",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Esteves T.",
-    "squadra":"Pisa",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Esteves T.",
+    "ruolo": "D",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Paz Y.",
-    "squadra":"Sassuolo",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Paz Y.",
+    "ruolo": "D",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Dembelè A.",
-    "squadra":"Torino",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Dembelè A.",
+    "ruolo": "D",
+    "squadra": "Torino",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Palma",
-    "squadra":"Udinese",
-    "ruolo":"D",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Palma",
+    "ruolo": "D",
+    "squadra": "Udinese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Orsolini",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":30,
-    "qt_attuale":30
+    "nome": "Orsolini",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 30,
+    "qt_attuale": 30
   },
   {
-    "nome":"Pulisic",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":28,
-    "qt_attuale":28
+    "nome": "Pulisic",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 28,
+    "qt_attuale": 28
   },
   {
-    "nome":"Zaccagni",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":26,
-    "qt_attuale":26
+    "nome": "Zaccagni",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 26,
+    "qt_attuale": 26
   },
   {
-    "nome":"McTominay",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":26,
-    "qt_attuale":26
+    "nome": "McTominay",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 26,
+    "qt_attuale": 26
   },
   {
-    "nome":"Gudmundsson A.",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":24,
-    "qt_attuale":24
+    "nome": "Gudmundsson A.",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 24,
+    "qt_attuale": 24
   },
   {
-    "nome":"Calhanoglu",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":23,
-    "qt_attuale":23
+    "nome": "Calhanoglu",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 23,
+    "qt_attuale": 23
   },
   {
-    "nome":"De Bruyne",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":23,
-    "qt_attuale":23
+    "nome": "De Bruyne",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 23,
+    "qt_attuale": 23
   },
   {
-    "nome":"Paz N.",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Paz N.",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Conceicao",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":18,
-    "qt_attuale":18
+    "nome": "Conceicao",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 18,
+    "qt_attuale": 18
   },
   {
-    "nome":"Odgaard",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Odgaard",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Thuram K.",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Thuram K.",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Ederson D.S.",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Ederson D.S.",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Zambo Anguissa",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Zambo Anguissa",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Politano",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Politano",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Vlasic",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Vlasic",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Mandragora",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Mandragora",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Barella",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Barella",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Frattesi",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Frattesi",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Koopmeiners",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Koopmeiners",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Isaksen",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Isaksen",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Konè M.",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Konè M.",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Neres",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Neres",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Ondrejka",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Ondrejka",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"De Roon",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "De Roon",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Samardzic",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Samardzic",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Caqueret",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Caqueret",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Da Cunha",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Da Cunha",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Vandeputte",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Vandeputte",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Gronbaek",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Gronbaek",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Locatelli",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Locatelli",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Saelemaekers",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Saelemaekers",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Modric",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Modric",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Sohm",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Sohm",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Tramoni M.",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Tramoni M.",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Casadei",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Casadei",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Freuler",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Freuler",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Ferguson",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Ferguson",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Fazzini",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Fazzini",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Carboni V.",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Carboni V.",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Guendouzi",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Guendouzi",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Dele-Bashiru",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Dele-Bashiru",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Fofana Y.",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Fofana Y.",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Bernabè",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Bernabè",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Man",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Man",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Pellegrini Lo.",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Pellegrini Lo.",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Fabbian",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Fabbian",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Vazquez",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Vazquez",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"McKennie",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "McKennie",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Pierotti",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Pierotti",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Ricci S.",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Ricci S.",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Anjorin",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Anjorin",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Ekkelenkamp",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Ekkelenkamp",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Pasalic",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Pasalic",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Maldini",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Maldini",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Bernardeschi",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Bernardeschi",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Folorunsho",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Folorunsho",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Baturina",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Baturina",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Frendrup",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Frendrup",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Sucic P.",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Sucic P.",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Mkhitaryan",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Mkhitaryan",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Tete Morente",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Tete Morente",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Lobotka",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Lobotka",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Cristante",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Cristante",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"El Aynaoui",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "El Aynaoui",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Lovric",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Lovric",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Suslov",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Suslov",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Brescianini",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Brescianini",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Pobega",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Pobega",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Gaetano",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Gaetano",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Perrone",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Perrone",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Collocolo",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Collocolo",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Fagioli",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Fagioli",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Messias",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Messias",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Malinovskyi",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Malinovskyi",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Stanciu",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Stanciu",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Rovella",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Rovella",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Helgason",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Helgason",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Loftus-Cheek",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Loftus-Cheek",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"El Shaarawy",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "El Shaarawy",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Baldanzi",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Baldanzi",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Thorstvedt",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Thorstvedt",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Valoti",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Valoti",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Luis Henrique",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Luis Henrique",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Weah",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Weah",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Coulibaly L.",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Coulibaly L.",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Gilmour",
-    "squadra":"Napoli",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Gilmour",
+    "ruolo": "C",
+    "squadra": "Napoli",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Hernani",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Hernani",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Pisilli",
-    "squadra":"Roma",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Pisilli",
+    "ruolo": "C",
+    "squadra": "Roma",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Ilic",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Ilic",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Harroui",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Harroui",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Felici",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Felici",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Zalewski",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Zalewski",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Vecino",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Vecino",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Maleh",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Maleh",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Pierret",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Pierret",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Ramadani",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Ramadani",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Musah",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Musah",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Keita M.",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Keita M.",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Piccinini G.",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Piccinini G.",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Tourè I.",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Tourè I.",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Marin M.",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Marin M.",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Boloca",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Boloca",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Konè I.",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Konè I.",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Fadera",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Fadera",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Karlstrom",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Karlstrom",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Atta",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Atta",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Piotrowski",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Piotrowski",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Adopo",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Adopo",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Deiola",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Deiola",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Zanimacchia",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Zanimacchia",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Masini",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Masini",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Ellertsson",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Ellertsson",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Thorsby",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Thorsby",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Miretti",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Miretti",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Cataldi",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Cataldi",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Ordonez C.",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Ordonez C.",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Volpato",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Volpato",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Tameze",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Tameze",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Gineitis",
-    "squadra":"Torino",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Gineitis",
+    "ruolo": "C",
+    "squadra": "Torino",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Serdar",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Serdar",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Mazzitelli",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Mazzitelli",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Sulemana I.",
-    "squadra":"Atalanta",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Sulemana I.",
+    "ruolo": "C",
+    "squadra": "Atalanta",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Aebischer",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Aebischer",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Sergi Roberto",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Sergi Roberto",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Grassi",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Grassi",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Richardson",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Richardson",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Asllani",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Asllani",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Zielinski",
-    "squadra":"Inter",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Zielinski",
+    "ruolo": "C",
+    "squadra": "Inter",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Kostic",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Kostic",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Belahyane",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Belahyane",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Chukwueze",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Chukwueze",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Ghion",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Ghion",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Lipani",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Lipani",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Payero",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Payero",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Bernede",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Bernede",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Kastanos",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Kastanos",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Moro N.",
-    "squadra":"Bologna",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Moro N.",
+    "ruolo": "C",
+    "squadra": "Bologna",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Prati",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Prati",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Castagnetti",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Castagnetti",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Venturino",
-    "squadra":"Genoa",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Venturino",
+    "ruolo": "C",
+    "squadra": "Genoa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Douglas Luiz",
-    "squadra":"Juventus",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Douglas Luiz",
+    "ruolo": "C",
+    "squadra": "Juventus",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Berisha M.",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Berisha M.",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Rafia",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Rafia",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Bondo",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Bondo",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Zerbin",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Zerbin",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Vural",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Vural",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Akinsanmiro",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Akinsanmiro",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Niasse",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Niasse",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Engelhardt",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Engelhardt",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Pickel",
-    "squadra":"Cremonese",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Pickel",
+    "ruolo": "C",
+    "squadra": "Cremonese",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Ndour",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Ndour",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Sabiri",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Sabiri",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Estevez",
-    "squadra":"Parma",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Estevez",
+    "ruolo": "C",
+    "squadra": "Parma",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Leris",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Leris",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Zarraga",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Zarraga",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Santiago",
-    "squadra":"Verona",
-    "ruolo":"C",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Santiago",
+    "ruolo": "C",
+    "squadra": "Verona",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Liteta",
-    "squadra":"Cagliari",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Liteta",
+    "ruolo": "C",
+    "squadra": "Cagliari",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Braunoder",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Braunoder",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Alli",
-    "squadra":"Como",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Alli",
+    "ruolo": "C",
+    "squadra": "Como",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Bianco",
-    "squadra":"Fiorentina",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Bianco",
+    "ruolo": "C",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Basic",
-    "squadra":"Lazio",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Basic",
+    "ruolo": "C",
+    "squadra": "Lazio",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Kaba",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Kaba",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Marchwinski",
-    "squadra":"Lecce",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Marchwinski",
+    "ruolo": "C",
+    "squadra": "Lecce",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Liberali",
-    "squadra":"Milan",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Liberali",
+    "ruolo": "C",
+    "squadra": "Milan",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Hojholt",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Hojholt",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Arena",
-    "squadra":"Pisa",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Arena",
+    "ruolo": "C",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Iannoni",
-    "squadra":"Sassuolo",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Iannoni",
+    "ruolo": "C",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Pafundi",
-    "squadra":"Udinese",
-    "ruolo":"C",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Pafundi",
+    "ruolo": "C",
+    "squadra": "Udinese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Martinez L.",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":34,
-    "qt_attuale":34
+    "nome": "Martinez L.",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 34,
+    "qt_attuale": 34
   },
   {
-    "nome":"Kean",
-    "squadra":"Fiorentina",
-    "ruolo":"A",
-    "qt_iniziale":33,
-    "qt_attuale":33
+    "nome": "Kean",
+    "ruolo": "A",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 33,
+    "qt_attuale": 33
   },
   {
-    "nome":"Lukaku",
-    "squadra":"Napoli",
-    "ruolo":"A",
-    "qt_iniziale":31,
-    "qt_attuale":31
+    "nome": "Lukaku",
+    "ruolo": "A",
+    "squadra": "Napoli",
+    "qt_iniziale": 31,
+    "qt_attuale": 31
   },
   {
-    "nome":"Lookman",
-    "squadra":"Atalanta",
-    "ruolo":"A",
-    "qt_iniziale":29,
-    "qt_attuale":29
+    "nome": "Lookman",
+    "ruolo": "A",
+    "squadra": "Atalanta",
+    "qt_iniziale": 29,
+    "qt_attuale": 29
   },
   {
-    "nome":"Thuram",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":29,
-    "qt_attuale":29
+    "nome": "Thuram",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 29,
+    "qt_attuale": 29
   },
   {
-    "nome":"David",
-    "squadra":"Juventus",
-    "ruolo":"A",
-    "qt_iniziale":27,
-    "qt_attuale":27
+    "nome": "David",
+    "ruolo": "A",
+    "squadra": "Juventus",
+    "qt_iniziale": 27,
+    "qt_attuale": 27
   },
   {
-    "nome":"Dybala",
-    "squadra":"Roma",
-    "ruolo":"A",
-    "qt_iniziale":26,
-    "qt_attuale":26
+    "nome": "Dybala",
+    "ruolo": "A",
+    "squadra": "Roma",
+    "qt_iniziale": 26,
+    "qt_attuale": 26
   },
   {
-    "nome":"Gimenez",
-    "squadra":"Milan",
-    "ruolo":"A",
-    "qt_iniziale":25,
-    "qt_attuale":25
+    "nome": "Gimenez",
+    "ruolo": "A",
+    "squadra": "Milan",
+    "qt_iniziale": 25,
+    "qt_attuale": 25
   },
   {
-    "nome":"Yildiz",
-    "squadra":"Juventus",
-    "ruolo":"A",
-    "qt_iniziale":24,
-    "qt_attuale":24
+    "nome": "Yildiz",
+    "ruolo": "A",
+    "squadra": "Juventus",
+    "qt_iniziale": 24,
+    "qt_attuale": 24
   },
   {
-    "nome":"Vlahovic",
-    "squadra":"Juventus",
-    "ruolo":"A",
-    "qt_iniziale":24,
-    "qt_attuale":24
+    "nome": "Vlahovic",
+    "ruolo": "A",
+    "squadra": "Juventus",
+    "qt_iniziale": 24,
+    "qt_attuale": 24
   },
   {
-    "nome":"Leao",
-    "squadra":"Milan",
-    "ruolo":"A",
-    "qt_iniziale":24,
-    "qt_attuale":24
+    "nome": "Leao",
+    "ruolo": "A",
+    "squadra": "Milan",
+    "qt_iniziale": 24,
+    "qt_attuale": 24
   },
   {
-    "nome":"De Ketelaere",
-    "squadra":"Atalanta",
-    "ruolo":"A",
-    "qt_iniziale":22,
-    "qt_attuale":22
+    "nome": "De Ketelaere",
+    "ruolo": "A",
+    "squadra": "Atalanta",
+    "qt_iniziale": 22,
+    "qt_attuale": 22
   },
   {
-    "nome":"Castellanos",
-    "squadra":"Lazio",
-    "ruolo":"A",
-    "qt_iniziale":21,
-    "qt_attuale":21
+    "nome": "Castellanos",
+    "ruolo": "A",
+    "squadra": "Lazio",
+    "qt_iniziale": 21,
+    "qt_attuale": 21
   },
   {
-    "nome":"Dovbyk",
-    "squadra":"Roma",
-    "ruolo":"A",
-    "qt_iniziale":21,
-    "qt_attuale":21
+    "nome": "Dovbyk",
+    "ruolo": "A",
+    "squadra": "Roma",
+    "qt_iniziale": 21,
+    "qt_attuale": 21
   },
   {
-    "nome":"Berardi",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":21,
-    "qt_attuale":21
+    "nome": "Berardi",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 21,
+    "qt_attuale": 21
   },
   {
-    "nome":"Dia",
-    "squadra":"Lazio",
-    "ruolo":"A",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Dia",
+    "ruolo": "A",
+    "squadra": "Lazio",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Krstovic",
-    "squadra":"Lecce",
-    "ruolo":"A",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Krstovic",
+    "ruolo": "A",
+    "squadra": "Lecce",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Soulè",
-    "squadra":"Roma",
-    "ruolo":"A",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Soulè",
+    "ruolo": "A",
+    "squadra": "Roma",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Zapata D.",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":20,
-    "qt_attuale":20
+    "nome": "Zapata D.",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 20,
+    "qt_attuale": 20
   },
   {
-    "nome":"Scamacca",
-    "squadra":"Atalanta",
-    "ruolo":"A",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Scamacca",
+    "ruolo": "A",
+    "squadra": "Atalanta",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Castro S.",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Castro S.",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Immobile",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Immobile",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Lang",
-    "squadra":"Napoli",
-    "ruolo":"A",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Lang",
+    "ruolo": "A",
+    "squadra": "Napoli",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Ferguson E.",
-    "squadra":"Roma",
-    "ruolo":"A",
-    "qt_iniziale":19,
-    "qt_attuale":19
+    "nome": "Ferguson E.",
+    "ruolo": "A",
+    "squadra": "Roma",
+    "qt_iniziale": 19,
+    "qt_attuale": 19
   },
   {
-    "nome":"Piccoli",
-    "squadra":"Cagliari",
-    "ruolo":"A",
-    "qt_iniziale":17,
-    "qt_attuale":17
+    "nome": "Piccoli",
+    "ruolo": "A",
+    "squadra": "Cagliari",
+    "qt_iniziale": 17,
+    "qt_attuale": 17
   },
   {
-    "nome":"Diao",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":17,
-    "qt_attuale":17
+    "nome": "Diao",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 17,
+    "qt_attuale": 17
   },
   {
-    "nome":"Pinamonti",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Pinamonti",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Thauvin",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":16,
-    "qt_attuale":16
+    "nome": "Thauvin",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 16,
+    "qt_attuale": 16
   },
   {
-    "nome":"Dzeko",
-    "squadra":"Fiorentina",
-    "ruolo":"A",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Dzeko",
+    "ruolo": "A",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Lucca",
-    "squadra":"Napoli",
-    "ruolo":"A",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Lucca",
+    "ruolo": "A",
+    "squadra": "Napoli",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Laurientè",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":15,
-    "qt_attuale":15
+    "nome": "Laurientè",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 15,
+    "qt_attuale": 15
   },
   {
-    "nome":"Kuhn",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Kuhn",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Adams C.",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":14,
-    "qt_attuale":14
+    "nome": "Adams C.",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 14,
+    "qt_attuale": 14
   },
   {
-    "nome":"Pedro",
-    "squadra":"Lazio",
-    "ruolo":"A",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Pedro",
+    "ruolo": "A",
+    "squadra": "Lazio",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Raspadori",
-    "squadra":"Napoli",
-    "ruolo":"A",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Raspadori",
+    "ruolo": "A",
+    "squadra": "Napoli",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Pellegrino M.",
-    "squadra":"Parma",
-    "ruolo":"A",
-    "qt_iniziale":13,
-    "qt_attuale":13
+    "nome": "Pellegrino M.",
+    "ruolo": "A",
+    "squadra": "Parma",
+    "qt_iniziale": 13,
+    "qt_attuale": 13
   },
   {
-    "nome":"Luvumbo",
-    "squadra":"Cagliari",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Luvumbo",
+    "ruolo": "A",
+    "squadra": "Cagliari",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Colombo",
-    "squadra":"Genoa",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Colombo",
+    "ruolo": "A",
+    "squadra": "Genoa",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Vitinha O.",
-    "squadra":"Genoa",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Vitinha O.",
+    "ruolo": "A",
+    "squadra": "Genoa",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Gonzalez N.",
-    "squadra":"Juventus",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Gonzalez N.",
+    "ruolo": "A",
+    "squadra": "Juventus",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Camarda",
-    "squadra":"Lecce",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Camarda",
+    "ruolo": "A",
+    "squadra": "Lecce",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Davis K.",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":12,
-    "qt_attuale":12
+    "nome": "Davis K.",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 12,
+    "qt_attuale": 12
   },
   {
-    "nome":"Cambiaghi",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":11,
-    "qt_attuale":11
+    "nome": "Cambiaghi",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 11,
+    "qt_attuale": 11
   },
   {
-    "nome":"Dallinga",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Dallinga",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Cutrone",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":10,
-    "qt_attuale":10
+    "nome": "Cutrone",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 10,
+    "qt_attuale": 10
   },
   {
-    "nome":"Sulemana K.",
-    "squadra":"Atalanta",
-    "ruolo":"A",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Sulemana K.",
+    "ruolo": "A",
+    "squadra": "Atalanta",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Dominguez B.",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Dominguez B.",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Djuric",
-    "squadra":"Parma",
-    "ruolo":"A",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Djuric",
+    "ruolo": "A",
+    "squadra": "Parma",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Ngonge",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Ngonge",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Aboukhlal",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":9,
-    "qt_attuale":9
+    "nome": "Aboukhlal",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 9,
+    "qt_attuale": 9
   },
   {
-    "nome":"Douvikas",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Douvikas",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"De Luca",
-    "squadra":"Cremonese",
-    "ruolo":"A",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "De Luca",
+    "ruolo": "A",
+    "squadra": "Cremonese",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Simeone",
-    "squadra":"Napoli",
-    "ruolo":"A",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Simeone",
+    "ruolo": "A",
+    "squadra": "Napoli",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Sarr A.",
-    "squadra":"Verona",
-    "ruolo":"A",
-    "qt_iniziale":8,
-    "qt_attuale":8
+    "nome": "Sarr A.",
+    "ruolo": "A",
+    "squadra": "Verona",
+    "qt_iniziale": 8,
+    "qt_attuale": 8
   },
   {
-    "nome":"Tourè E.",
-    "squadra":"Atalanta",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Tourè E.",
+    "ruolo": "A",
+    "squadra": "Atalanta",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Addai",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Addai",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Johnsen",
-    "squadra":"Cremonese",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Johnsen",
+    "ruolo": "A",
+    "squadra": "Cremonese",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Beltran L.",
-    "squadra":"Fiorentina",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Beltran L.",
+    "ruolo": "A",
+    "squadra": "Fiorentina",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Esposito Se.",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Esposito Se.",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Esposito F.P.",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Esposito F.P.",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Noslin",
-    "squadra":"Lazio",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Noslin",
+    "ruolo": "A",
+    "squadra": "Lazio",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Sanabria",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Sanabria",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Sanchez",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":7,
-    "qt_attuale":7
+    "nome": "Sanchez",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 7,
+    "qt_attuale": 7
   },
   {
-    "nome":"Bravo",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Bravo",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Mosquera",
-    "squadra":"Verona",
-    "ruolo":"A",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Mosquera",
+    "ruolo": "A",
+    "squadra": "Verona",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Kilicsoy",
-    "squadra":"Cagliari",
-    "ruolo":"A",
-    "qt_iniziale":6,
-    "qt_attuale":6
+    "nome": "Kilicsoy",
+    "ruolo": "A",
+    "squadra": "Cagliari",
+    "qt_iniziale": 6,
+    "qt_attuale": 6
   },
   {
-    "nome":"Borrelli",
-    "squadra":"Cagliari",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Borrelli",
+    "ruolo": "A",
+    "squadra": "Cagliari",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Rodriguez Je.",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Rodriguez Je.",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Okereke",
-    "squadra":"Cremonese",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Okereke",
+    "ruolo": "A",
+    "squadra": "Cremonese",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Bonny",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Bonny",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Banda",
-    "squadra":"Lecce",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Banda",
+    "ruolo": "A",
+    "squadra": "Lecce",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"N'Dri",
-    "squadra":"Lecce",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "N'Dri",
+    "ruolo": "A",
+    "squadra": "Lecce",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Moreo",
-    "squadra":"Pisa",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Moreo",
+    "ruolo": "A",
+    "squadra": "Pisa",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Pierini",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Pierini",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Mulattieri",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":5,
-    "qt_attuale":5
+    "nome": "Mulattieri",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 5,
+    "qt_attuale": 5
   },
   {
-    "nome":"Taremi",
-    "squadra":"Inter",
-    "ruolo":"A",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Taremi",
+    "ruolo": "A",
+    "squadra": "Inter",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Okafor",
-    "squadra":"Milan",
-    "ruolo":"A",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Okafor",
+    "ruolo": "A",
+    "squadra": "Milan",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Almqvist",
-    "squadra":"Parma",
-    "ruolo":"A",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Almqvist",
+    "ruolo": "A",
+    "squadra": "Parma",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Lind",
-    "squadra":"Pisa",
-    "ruolo":"A",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Lind",
+    "ruolo": "A",
+    "squadra": "Pisa",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Bayo V.",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":4,
-    "qt_attuale":4
+    "nome": "Bayo V.",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 4,
+    "qt_attuale": 4
   },
   {
-    "nome":"Karlsson",
-    "squadra":"Bologna",
-    "ruolo":"A",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Karlsson",
+    "ruolo": "A",
+    "squadra": "Bologna",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Cancellieri",
-    "squadra":"Lazio",
-    "ruolo":"A",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Cancellieri",
+    "ruolo": "A",
+    "squadra": "Lazio",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Brenner",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Brenner",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Rocha Livramento",
-    "squadra":"Verona",
-    "ruolo":"A",
-    "qt_iniziale":3,
-    "qt_attuale":3
+    "nome": "Rocha Livramento",
+    "ruolo": "A",
+    "squadra": "Verona",
+    "qt_iniziale": 3,
+    "qt_attuale": 3
   },
   {
-    "nome":"Ekuban",
-    "squadra":"Genoa",
-    "ruolo":"A",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Ekuban",
+    "ruolo": "A",
+    "squadra": "Genoa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Meister",
-    "squadra":"Pisa",
-    "ruolo":"A",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Meister",
+    "ruolo": "A",
+    "squadra": "Pisa",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Alvarez A.",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":2,
-    "qt_attuale":2
+    "nome": "Alvarez A.",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 2,
+    "qt_attuale": 2
   },
   {
-    "nome":"Pavoletti",
-    "squadra":"Cagliari",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Pavoletti",
+    "ruolo": "A",
+    "squadra": "Cagliari",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Azon",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Azon",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Gabrielloni",
-    "squadra":"Como",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Gabrielloni",
+    "ruolo": "A",
+    "squadra": "Como",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Bonazzoli",
-    "squadra":"Cremonese",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Bonazzoli",
+    "ruolo": "A",
+    "squadra": "Cremonese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Nasti",
-    "squadra":"Cremonese",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Nasti",
+    "ruolo": "A",
+    "squadra": "Cremonese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Ekhator",
-    "squadra":"Genoa",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Ekhator",
+    "ruolo": "A",
+    "squadra": "Genoa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Milik",
-    "squadra":"Juventus",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Milik",
+    "ruolo": "A",
+    "squadra": "Juventus",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Benedyczak",
-    "squadra":"Parma",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Benedyczak",
+    "ruolo": "A",
+    "squadra": "Parma",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Buffon L.",
-    "squadra":"Pisa",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Buffon L.",
+    "ruolo": "A",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Bonfanti N.",
-    "squadra":"Pisa",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Bonfanti N.",
+    "ruolo": "A",
+    "squadra": "Pisa",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Moro L.",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Moro L.",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Skjellerup",
-    "squadra":"Sassuolo",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Skjellerup",
+    "ruolo": "A",
+    "squadra": "Sassuolo",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Njie",
-    "squadra":"Torino",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Njie",
+    "ruolo": "A",
+    "squadra": "Torino",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Pizarro",
-    "squadra":"Udinese",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Pizarro",
+    "ruolo": "A",
+    "squadra": "Udinese",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   },
   {
-    "nome":"Giovane",
-    "squadra":"Verona",
-    "ruolo":"A",
-    "qt_iniziale":1,
-    "qt_attuale":1
+    "nome": "Giovane",
+    "ruolo": "A",
+    "squadra": "Verona",
+    "qt_iniziale": 1,
+    "qt_attuale": 1
   }
 ]

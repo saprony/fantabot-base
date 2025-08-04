@@ -7,12 +7,15 @@ const GiocatoriPage = () => {
   const [maxCrediti, setMaxCrediti] = useState('');
 
   useEffect(() => {
-    fetch('/api/giocatori')
-      .then(res => res.json())
-      .then(data => setGiocatori(data));
+    const fetchGiocatori = async () => {
+      const res = await fetch('/data/giocatori.json');
+      const data = await res.json();
+      setGiocatori(data);
+    };
+    fetchGiocatori();
   }, []);
 
-  const filtrati = giocatori.filter(g => {
+  const filtraGiocatori = giocatori.filter((g) => {
     const matchNome = g.nome.toLowerCase().includes(search.toLowerCase());
     const matchRuolo = ruolo ? g.ruolo === ruolo : true;
     const matchCrediti = maxCrediti ? g.quotazione_attuale <= parseInt(maxCrediti) : true;
@@ -21,17 +24,16 @@ const GiocatoriPage = () => {
 
   return (
     <div style={{ padding: '2rem' }}>
-      <h1>Lista Giocatori</h1>
+      <h1>Lista Giocatori Serie A</h1>
 
-      <div style={{ marginBottom: '1rem' }}>
+      <div style={{ display: 'flex', gap: '1rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
         <input
           type="text"
-          placeholder="Cerca per nome"
+          placeholder="Cerca nome giocatore"
           value={search}
-          onChange={e => setSearch(e.target.value)}
-          style={{ marginRight: '1rem' }}
+          onChange={(e) => setSearch(e.target.value)}
         />
-        <select value={ruolo} onChange={e => setRuolo(e.target.value)} style={{ marginRight: '1rem' }}>
+        <select value={ruolo} onChange={(e) => setRuolo(e.target.value)}>
           <option value="">Tutti i ruoli</option>
           <option value="Portiere">Portiere</option>
           <option value="Difensore">Difensore</option>
@@ -42,26 +44,27 @@ const GiocatoriPage = () => {
           type="number"
           placeholder="Max crediti"
           value={maxCrediti}
-          onChange={e => setMaxCrediti(e.target.value)}
+          onChange={(e) => setMaxCrediti(e.target.value)}
+          min="1"
         />
       </div>
 
-      <table border="1" cellPadding="6">
+      <table border="1" cellPadding="8" style={{ width: '100%', borderCollapse: 'collapse' }}>
         <thead>
           <tr>
             <th>Nome</th>
-            <th>Ruolo</th>
             <th>Squadra</th>
+            <th>Ruolo</th>
             <th>Qt. Iniziale</th>
             <th>Qt. Attuale</th>
           </tr>
         </thead>
         <tbody>
-          {filtrati.map((g, idx) => (
-            <tr key={idx}>
+          {filtraGiocatori.map((g, i) => (
+            <tr key={i}>
               <td>{g.nome}</td>
-              <td>{g.ruolo}</td>
               <td>{g.squadra}</td>
+              <td>{g.ruolo}</td>
               <td>{g.quotazione_iniziale}</td>
               <td>{g.quotazione_attuale}</td>
             </tr>

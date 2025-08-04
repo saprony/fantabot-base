@@ -5,48 +5,79 @@ const GiocatoriPage = () => {
   const [query, setQuery] = useState('');
   const [ruoloFiltro, setRuoloFiltro] = useState('');
   const [squadraFiltro, setSquadraFiltro] = useState('');
+  const [maxCrediti, setMaxCrediti] = useState('');
+  const [sortConfig, setSortConfig] = useState({ key: '', direction: 'asc' });
 
   useEffect(() => {
     fetch('/giocatori_2025_26.json')
-      .then(response => response.json())
-      .then(data => {
-        console.log('Dati ricevuti nel frontend:', data);
-        setGiocatori(data);
-      })
-      .catch(error => console.error('Errore nel caricamento dei dati: ' + error));
+      .then((res) => res.json())
+      .then((data) => setGiocatori(data))
+      .catch((err) => console.error('Errore nel caricamento:', err));
   }, []);
 
-  // Estrae l'elenco squadre uniche in ordine alfabetico
-  const squadreDisponibili = [...new Set(giocatori.map(g => g.squadra))].sort();
+  const roleMap = {
+    P: 'Portiere',
+    D: 'Difensore',
+    C: 'Centrocampista',
+    A: 'Attaccante',
+  };
 
-  const giocatoriFiltrati = giocatori
-    .filter((g) =>
-      g.nome.toLowerCase().includes(query.toLowerCase())
-    )
-    .filter((g) =>
-      ruoloFiltro === '' || g.ruolo === ruoloFiltro
-    )
-    .filter((g) =>
-      squadraFiltro === '' || g.squadra === squadraFiltro
+  const squadreDisponibili = [...new Set(giocatori.map((g) => g.squadra))].sort();
+
+  const sortedGiocatori = [...giocatori]
+    .filter((g) => g.nome.toLowerCase().includes(query.toLowerCase()))
+    .filter((g) => !ruoloFiltro || g.ruolo === ruoloFiltro)
+    .filter((g) => !squadraFiltro || g.squadra === squadraFiltro)
+    .filter((g) => !maxCrediti || g.qt_attuale <= parseInt(maxCrediti));
+
+  if (sortConfig.key !== '') {
+    sortedGiocatori.sort((a, b) => {
+      let aVal = a[sortConfig.key];
+      let bVal = b[sortConfig.key];
+
+      if (sortConfig.key === 'ruolo') {
+        aVal = roleMap[aVal];
+        bVal = roleMap[bVal];
+      }
+
+      if (typeof aVal === 'string') {
+        aVal = aVal.toLowerCase();
+        bVal = bVal.toLowerCase();
+      }
+
+      if (aVal < bVal) return sortConfig.direction === 'asc' ? -1 : 1;
+      if (aVal > bVal) return sortConfig.direction === 'asc' ? 1 : -1;
+      return 0;
+    });
+  }
+
+  const handleSort = (key) => {
+    setSortConfig((prev) =>
+      prev.key === key
+        ? { key, direction: prev.direction === 'asc' ? 'desc' : 'asc' }
+        : { key, direction: 'asc' }
     );
+  };
+
+  const getArrow = (key) =>
+    sortConfig.key === key ? (sortConfig.direction === 'asc' ? '↑' : '↓') : '';
 
   return (
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Giocatori registrati</h1>
+    <div className="p-6 max-w-7xl mx-auto">
+      <h1 className="text-3xl font-bold mb-6 text-center">Giocatori Fantacalcio 2025/26</h1>
 
-      <div className="flex flex-wrap items-center gap-4 mb-4">
+      <div className="flex flex-wrap gap-4 justify-center mb-6">
         <input
           type="text"
-          placeholder="Cerca nome giocatore"
+          placeholder="🔍 Cerca nome"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="p-2 border rounded w-full max-w-sm"
+          className="p-2 border rounded w-full sm:w-60"
         />
-
         <select
           value={ruoloFiltro}
           onChange={(e) => setRuoloFiltro(e.target.value)}
-          className="p-2 border rounded"
+          className="p-2 border rounded w-full sm:w-40"
         >
           <option value="">Tutti i ruoli</option>
           <option value="P">Portieri</option>
@@ -54,41 +85,90 @@ const GiocatoriPage = () => {
           <option value="C">Centrocampisti</option>
           <option value="A">Attaccanti</option>
         </select>
-
         <select
           value={squadraFiltro}
           onChange={(e) => setSquadraFiltro(e.target.value)}
-          className="p-2 border rounded"
+          className="p-2 border rounded w-full sm:w-52"
         >
           <option value="">Tutte le squadre</option>
-          {squadreDisponibili.map((squadra, index) => (
-            <option key={index} value={squadra}>{squadra}</option>
+          {squadreDisponibili.map((s, i) => (
+            <option key={i} value={s}>
+              {s}
+            </option>
           ))}
         </select>
+        <input
+          type="number"
+          placeholder="💰 Credito massimo"
+          value={maxCrediti}
+          onChange={(e) => setMaxCrediti(e.target.value)}
+          className="p-2 border rounded w-full sm:w-40"
+          min="0"
+        />
       </div>
 
-      <table className="min-w-full table-auto border border-gray-300">
-        <thead>
-          <tr className="bg-gray-200">
-            <th className="px-4 py-2">Nome</th>
-            <th className="px-4 py-2">Ruolo</th>
-            <th className="px-4 py-2">Squadra</th>
-            <th className="px-4 py-2">Qt. Iniziale</th>
-            <th className="px-4 py-2">Qt. Attuale</th>
-          </tr>
-        </thead>
-        <tbody>
-          {giocatoriFiltrati.map((g, index) => (
-            <tr key={index} className="text-center border-t">
-              <td className="px-4 py-2">{g.nome}</td>
-              <td className="px-4 py-2">{g.ruolo}</td>
-              <td className="px-4 py-2">{g.squadra}</td>
-              <td className="px-4 py-2">{g.qt_iniziale}</td>
-              <td className="px-4 py-2">{g.qt_attuale}</td>
+      <div className="overflow-x-auto">
+        <table className="min-w-full border border-black border-collapse text-sm">
+          <thead>
+            <tr className="bg-white text-red-600 font-bold text-center">
+              <th
+                className="px-4 py-2 border border-black cursor-pointer"
+                onClick={() => handleSort('nome')}
+              >
+                Nome {getArrow('nome')}
+              </th>
+              <th
+                className="px-4 py-2 border border-black cursor-pointer"
+                onClick={() => handleSort('ruolo')}
+              >
+                Ruolo {getArrow('ruolo')}
+              </th>
+              <th
+                className="px-4 py-2 border border-black cursor-pointer"
+                onClick={() => handleSort('squadra')}
+              >
+                Squadra {getArrow('squadra')}
+              </th>
+              <th
+                className="px-4 py-2 border border-black cursor-pointer"
+                onClick={() => handleSort('qt_iniziale')}
+              >
+                Iniziale {getArrow('qt_iniziale')}
+              </th>
+              <th
+                className="px-4 py-2 border border-black cursor-pointer"
+                onClick={() => handleSort('qt_attuale')}
+              >
+                Attuale {getArrow('qt_attuale')}
+              </th>
+              <th className="px-4 py-2 border border-black">Δ</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {sortedGiocatori.map((g, i) => {
+              const diff = g.qt_attuale - g.qt_iniziale;
+              const diffColor =
+                diff > 0 ? 'text-green-600' : diff < 0 ? 'text-red-600' : 'text-gray-500';
+              return (
+                <tr
+                  key={i}
+                  className={i % 2 === 0 ? 'bg-white' : 'bg-gray-100 text-black'}
+                >
+                  <td className="px-4 py-2 border border-black text-center">{g.nome}</td>
+                  <td className="px-4 py-2 border border-black text-center">{roleMap[g.ruolo]}</td>
+                  <td className="px-4 py-2 border border-black text-center">{g.squadra}</td>
+                  <td className="px-4 py-2 border border-black text-center">{g.qt_iniziale}</td>
+                  <td className="px-4 py-2 border border-black text-center">{g.qt_attuale}</td>
+                  <td className={`px-4 py-2 border border-black text-center font-bold ${diffColor}`}>
+                    {diff > 0 ? '+' : ''}
+                    {diff}
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 };

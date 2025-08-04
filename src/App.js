@@ -1,18 +1,21 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Giocatori from './pages/Giocatori';
 
 function App() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
-      <h1>Benvenuto su FantaBot 2025 ⚽🤖</h1>
-      <p>Il tuo assistente smart per vincere al Fantacalcio!</p>
-      <p>Presto potrai:</p>
-      <ul style={{ listStyleType: 'none', padding: 0 }}>
-        <li>🔍 Ricevere consigli settimanali</li>
-        <li>📰 Leggere news dai principali siti sportivi</li>
-        <li>📊 Analizzare quotazioni, prestazioni e underdog</li>
-      </ul>
-      <p style={{ marginTop: '2rem' }}>Stay tuned…. 🚀</p>
-    </div>
+    <Router>
+      <div className="min-h-screen bg-gray-50 p-4">
+        <nav className="mb-4">
+          <Link to="/" className="mr-4 text-blue-600 font-semibold">Home</Link>
+          <Link to="/giocatori" className="text-blue-600 font-semibold">Giocatori</Link>
+        </nav>
+        <Routes>
+          <Route path="/" element={<h1 className="text-3xl font-bold">Benvenuto su FantaBot</h1>} />
+          <Route path="/giocatori" element={<Giocatori />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

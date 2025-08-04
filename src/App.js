@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import GiocatoriPage from './pages/GiocatoriPage';
+import Magnifici5Page from './pages/Magnifici5Page';
 
 function App() {
   return (
@@ -9,11 +10,13 @@ function App() {
         <nav>
           <Link to="/">Home</Link> |{' '}
           <Link to="/giocatori">Giocatori</Link>
+          <Link to="/magnifici5">I Magnifici 5</Link>
         </nav>
 
         <Routes>
           <Route path="/" element={<h1>Benvenuto su FantaBot!</h1>} />
           <Route path="/giocatori" element={<GiocatoriPage />} />
+          <Route path="/magnifici5" element={<Magnifici5Page />} />
         </Routes>
       </div>
     </Router>

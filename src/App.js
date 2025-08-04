@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
+      <h1>Benvenuto su FantaBot ⚽🤖</h1>
+      <p>Il tuo assistente smart per vincere al Fantacalcio!</p>
+      <p>Presto potrai:</p>
+      <ul style={{ listStyleType: 'none', padding: 0 }}>
+        <li>🔍 Ricevere consigli settimanali</li>
+        <li>📰 Leggere news dai principali siti sportivi</li>
+        <li>📊 Analizzare quotazioni, prestazioni e underdog</li>
+      </ul>
+      <p style={{ marginTop: '2rem' }}>Stay tuned… 🚀</p>
     </div>
   );
 }

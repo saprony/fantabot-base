@@ -1,0 +1,41 @@
+[
+  {
+    "nome": "Martinez L.",
+    "giornata": 1,
+    "minuti": 90,
+    "gol": 1,
+    "assist": 0,
+    "tiri_in_porta": 3,
+    "occasioni_create": 2,
+    "ammonizioni": 0,
+    "espulsioni": 0,
+    "voto": 7.5,
+    "fantavoto": 10.5
+  },
+  {
+    "nome": "Di Gregorio",
+    "giornata": 1,
+    "minuti": 90,
+    "gol": 0,
+    "assist": 0,
+    "tiri_in_porta": 0,
+    "occasioni_create": 0,
+    "ammonizioni": 0,
+    "espulsioni": 0,
+    "voto": 6,
+    "fantavoto": 6
+  },
+  {
+    "nome": "Calhanoglu",
+    "giornata": 1,
+    "minuti": 85,
+    "gol": 0,
+    "assist": 1,
+    "tiri_in_porta": 2,
+    "occasioni_create": 3,
+    "ammonizioni": 1,
+    "espulsioni": 0,
+    "voto": 6.5,
+    "fantavoto": 7
+  }
+]

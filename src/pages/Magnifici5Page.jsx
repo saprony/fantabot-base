@@ -1,54 +1,66 @@
 import React, { useEffect, useState } from 'react';
 
+const ruoli = ['portieri', 'difensori', 'centrocampisti', 'attaccanti'];
+
 const Magnifici5Page = () => {
-  const [dati, setDati] = useState({});
+  const [dati, setDati] = useState(null);
+  const [giocatori, setGiocatori] = useState([]);
 
   useEffect(() => {
     fetch('/magnifici5.json')
-      .then((res) => res.json())
-      .then((data) => setDati(data))
-      .catch((err) => console.error('Errore caricamento:', err));
+      .then(res => res.json())
+      .then(data => setDati(data));
+
+    fetch('/giocatori_2025_26.json')
+      .then(res => res.json())
+      .then(data => setGiocatori(data));
   }, []);
 
-  const ruoliOrdine = ['Portieri', 'Difensori', 'Centrocampisti', 'Attaccanti'];
+  const getInfoGiocatore = (nome) => {
+    const trovato = giocatori.find(g => g.nome === nome);
+    if (!trovato) return null;
+    return `${trovato.squadra} – ${trovato.qt_attuale} cr`;
+  };
+
+  if (!dati || giocatori.length === 0) {
+    return (
+      <div className="p-6">
+        <h1 className="text-2xl font-bold mb-4">I Magnifici 5</h1>
+        <p>⏳ Caricamento in corso o dati non disponibili.</p>
+      </div>
+    );
+  }
 
   return (
-    <div className="p-6 max-w-5xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-center text-red-700">
-        I Magnifici 5 🔥
-      </h1>
+    <div className="p-6">
+      <h1 className="text-3xl font-bold text-center mb-8">🌟 I Magnifici 5 – Giornata {dati.giornata}</h1>
 
-      {ruoliOrdine.map((ruolo) => (
+      {ruoli.map((ruolo) => (
         <div key={ruolo} className="mb-10">
-          <h2 className="text-2xl font-semibold mb-4 text-blue-800 border-b border-gray-300 pb-1">
-            {ruolo}
-          </h2>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-2">
-            {dati[ruolo]?.top?.map((g, i) => (
-              <div
-                key={i}
-                className="border border-gray-300 rounded-lg p-3 shadow-sm bg-white"
-              >
-                <div className="font-bold text-lg">{g.nome}</div>
-                <div className="text-sm text-gray-600">{g.squadra}</div>
-                <div className="text-sm font-medium text-gray-800">
-                  Quotazione: {g.quotazione}
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {dati[ruolo]?.underdog && (
-            <div className="mt-6 bg-yellow-100 border-l-4 border-yellow-500 p-4 rounded">
-              <p className="text-sm text-gray-700">🎯 <strong>Underdog consigliato:</strong></p>
-              <p className="font-semibold text-lg">
-                {dati[ruolo].underdog.nome} ({dati[ruolo].underdog.squadra}) — {dati[ruolo].underdog.quotazione} crediti
-              </p>
-            </div>
-          )}
+          <h2 className="text-xl font-semibold mb-3 capitalize">{ruolo}</h2>
+          <ul className="bg-gray-50 p-4 rounded border divide-y">
+            {dati[ruolo].map((nome, i) => {
+              const info = getInfoGiocatore(nome);
+              return (
+                <li key={i} className="py-2">
+                  <span className="font-semibold">{nome}</span>
+                  {info && <span className="text-sm text-gray-600 block">{info}</span>}
+                </li>
+              );
+            })}
+          </ul>
         </div>
       ))}
+
+      <div className="mt-10 p-4 border rounded bg-yellow-100">
+        <h2 className="text-lg font-semibold mb-2">⚡ UNDERDOG</h2>
+        <p className="text-lg font-bold">{dati.underdog}</p>
+        {getInfoGiocatore(dati.underdog) && (
+          <p className="text-sm text-gray-700">
+            {getInfoGiocatore(dati.underdog)}
+          </p>
+        )}
+      </div>
     </div>
   );
 };

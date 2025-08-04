@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import GiocatoriPage from './pages/GiocatoriPage';
 import Magnifici5Page from './pages/Magnifici5Page';
 import GiocatorePage from './pages/GiocatorePage';
+import AdminLoginPage from './pages/AdminLoginPage';
+import AdminDashboardPage from './pages/AdminDashboardPage';
+
 
 function App() {
   return (
@@ -19,6 +22,8 @@ function App() {
           <Route path="/giocatori" element={<GiocatoriPage />} />
           <Route path="/magnifici5" element={<Magnifici5Page />} />
           <Route path="/giocatore/:nome" element={<GiocatorePage />} />
+          <Route path="/admin" element={<AdminLoginPage />} />
+<Route path="/admin/dashboard" element={<AdminDashboardPage />} />
         </Routes>
       </div>
     </Router>

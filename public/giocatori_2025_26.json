@@ -1,0 +1,23 @@
+[
+  {
+    "ruolo": "P",
+    "nome": "Sommer",
+    "squadra": "Inter",
+    "qt_attuale": 16,
+    "qt_iniziale": 16
+  },
+  {
+    "ruolo": "P",
+    "nome": "Di Gregorio",
+    "squadra": "Juventus",
+    "qt_attuale": 16,
+    "qt_iniziale": 16
+  },
+  {
+    "ruolo": "P",
+    "nome": "Maignan",
+    "squadra": "Milan",
+    "qt_attuale": 16,
+    "qt_iniziale": 16
+  }
+]

@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
-      <h1>Benvenuto su FantaBot ⚽🤖</h1>
+      <h1>Benvenuto su FantaBot 2025 ⚽🤖</h1>
       <p>Il tuo assistente smart per vincere al Fantacalcio!</p>
       <p>Presto potrai:</p>
       <ul style={{ listStyleType: 'none', padding: 0 }}>

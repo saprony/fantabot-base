@@ -1,22 +1,17 @@
-import React, { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-
-const AdminDashboardPage = () => {
-  const navigate = useNavigate();
-
-  useEffect(() => {
-    const loggedIn = localStorage.getItem('adminLoggedIn');
-    if (loggedIn !== 'true') {
-      navigate('/admin');
-    }
-  }, [navigate]);
-
+function AdminDashboardPage() {
   return (
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Dashboard Admin</h1>
-      <p>Accesso riuscito. Da qui gestirai le funzioni riservate.</p>
+    <div className="p-8">
+      <h2 className="text-2xl font-bold mb-4">Pannello di Controllo Admin</h2>
+      <p className="mb-2">Da qui potrai gestire tutte le sezioni di FantaBot.</p>
+
+      <ul className="list-disc ml-6 mt-4">
+        <li>Inserire/Modificare i Magnifici 5</li>
+        <li>Aggiornare le statistiche giocatori</li>
+        <li>Gestire i Consigli</li>
+        <li>Accedere a funzioni avanzate (in futuro)</li>
+      </ul>
     </div>
   );
-};
+}
 
 export default AdminDashboardPage;

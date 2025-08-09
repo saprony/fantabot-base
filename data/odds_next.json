@@ -2,9 +2,9 @@
   {
     "home": "Genoa",
     "away": "Lecce",
-    "p_home": 0.4649,
-    "p_draw": 0.291,
-    "p_away": 0.244,
+    "p_home": 0.4638,
+    "p_draw": 0.2917,
+    "p_away": 0.2446,
     "src": "TheOddsAPI(avg)"
   },
   {
@@ -18,9 +18,9 @@
   {
     "home": "Milan",
     "away": "Cremonese",
-    "p_home": 0.6922,
-    "p_draw": 0.1876,
-    "p_away": 0.1202,
+    "p_home": 0.6929,
+    "p_draw": 0.1878,
+    "p_away": 0.1193,
     "src": "TheOddsAPI(avg)"
   },
   {
@@ -34,17 +34,17 @@
   {
     "home": "Cagliari",
     "away": "Fiorentina",
-    "p_home": 0.3063,
-    "p_draw": 0.2897,
-    "p_away": 0.4039,
+    "p_home": 0.3065,
+    "p_draw": 0.2892,
+    "p_away": 0.4042,
     "src": "TheOddsAPI(avg)"
   },
   {
     "home": "Como",
     "away": "Lazio",
-    "p_home": 0.3762,
+    "p_home": 0.3768,
     "p_draw": 0.2865,
-    "p_away": 0.3373,
+    "p_away": 0.3367,
     "src": "TheOddsAPI(avg)"
   },
   {
@@ -58,9 +58,9 @@
   {
     "home": "Juventus",
     "away": "Parma",
-    "p_home": 0.665,
-    "p_draw": 0.2049,
-    "p_away": 0.13,
+    "p_home": 0.664,
+    "p_draw": 0.2047,
+    "p_away": 0.1313,
     "src": "TheOddsAPI(avg)"
   },
   {
@@ -74,9 +74,9 @@
   {
     "home": "Inter",
     "away": "Torino",
-    "p_home": 0.6545,
-    "p_draw": 0.2062,
-    "p_away": 0.1393,
+    "p_home": 0.6624,
+    "p_draw": 0.2025,
+    "p_away": 0.1351,
     "src": "TheOddsAPI(avg)"
   }
 ]

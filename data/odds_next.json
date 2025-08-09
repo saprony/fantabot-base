@@ -1,0 +1,82 @@
+[
+  {
+    "home": "Genoa",
+    "away": "Lecce",
+    "p_home": 0.4649,
+    "p_draw": 0.291,
+    "p_away": 0.244,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Sassuolo",
+    "away": "Napoli",
+    "p_home": 0.1459,
+    "p_draw": 0.2209,
+    "p_away": 0.6332,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Milan",
+    "away": "Cremonese",
+    "p_home": 0.6922,
+    "p_draw": 0.1876,
+    "p_away": 0.1202,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Roma",
+    "away": "Bologna",
+    "p_home": 0.4481,
+    "p_draw": 0.2891,
+    "p_away": 0.2628,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Cagliari",
+    "away": "Fiorentina",
+    "p_home": 0.3063,
+    "p_draw": 0.2897,
+    "p_away": 0.4039,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Como",
+    "away": "Lazio",
+    "p_home": 0.3762,
+    "p_draw": 0.2865,
+    "p_away": 0.3373,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Atalanta BC",
+    "away": "Pisa",
+    "p_home": 0.6718,
+    "p_draw": 0.1959,
+    "p_away": 0.1322,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Juventus",
+    "away": "Parma",
+    "p_home": 0.665,
+    "p_draw": 0.2049,
+    "p_away": 0.13,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Udinese",
+    "away": "Verona",
+    "p_home": 0.4493,
+    "p_draw": 0.2949,
+    "p_away": 0.2558,
+    "src": "TheOddsAPI(avg)"
+  },
+  {
+    "home": "Inter",
+    "away": "Torino",
+    "p_home": 0.6545,
+    "p_draw": 0.2062,
+    "p_away": 0.1393,
+    "src": "TheOddsAPI(avg)"
+  }
+]

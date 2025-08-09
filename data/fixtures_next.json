@@ -1,0 +1,6 @@
+[
+  { "team": "Atalanta", "opponent": "Monza", "homeAway": "H", "difficulty": 2 },
+  { "team": "Monza", "opponent": "Atalanta", "homeAway": "A", "difficulty": 4 },
+  { "team": "Milan", "opponent": "Inter", "homeAway": "H", "difficulty": 3 },
+  { "team": "Inter", "opponent": "Milan", "homeAway": "A", "difficulty": 3 }
+]

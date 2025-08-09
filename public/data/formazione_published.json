@@ -1,0 +1,116 @@
+{
+  "publishedAt": "2025-08-09T16:55:36.572Z",
+  "module": "4-3-3",
+  "starters": [
+    {
+      "Nome": "Carnesecchi",
+      "Ruolo": "P",
+      "Squadra": "Atalanta",
+      "Score": 0.63
+    },
+    {
+      "Nome": "Bellanova",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Zappacosta",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Hien",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Kossounou",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Ederson D.S.",
+      "Ruolo": "C",
+      "Squadra": "Atalanta",
+      "Score": 0.45
+    },
+    {
+      "Nome": "De Roon",
+      "Ruolo": "C",
+      "Squadra": "Atalanta",
+      "Score": 0.45
+    },
+    {
+      "Nome": "Samardzic",
+      "Ruolo": "C",
+      "Squadra": "Atalanta",
+      "Score": 0.45
+    },
+    {
+      "Nome": "Lookman",
+      "Ruolo": "A",
+      "Squadra": "Atalanta",
+      "Score": 0.392
+    },
+    {
+      "Nome": "De Ketelaere",
+      "Ruolo": "A",
+      "Squadra": "Atalanta",
+      "Score": 0.392
+    },
+    {
+      "Nome": "Scamacca",
+      "Ruolo": "A",
+      "Squadra": "Atalanta",
+      "Score": 0.392
+    }
+  ],
+  "bench": [
+    {
+      "Nome": "Rossi F.",
+      "Ruolo": "P",
+      "Squadra": "Atalanta",
+      "Score": 0.63
+    },
+    {
+      "Nome": "Sportiello",
+      "Ruolo": "P",
+      "Squadra": "Atalanta",
+      "Score": 0.63
+    },
+    {
+      "Nome": "Djimsiti",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Scalvini",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Kolasinac",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Ahanor",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    },
+    {
+      "Nome": "Palestra",
+      "Ruolo": "D",
+      "Squadra": "Atalanta",
+      "Score": 0.55
+    }
+  ]
+}

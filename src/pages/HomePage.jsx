@@ -42,6 +42,7 @@ function HomePage() {
 <Link to="/formazione-personalizzata" className="underline hover:text-yellow-300">
   ⚙️ Formazione Personalizzata
 </Link>
+<Link to="/login-admin">🔒 Area Admin</Link>
 
         </div>
 

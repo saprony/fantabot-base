@@ -1,0 +1,30 @@
+[
+  {
+    "giornata": 1,
+    "data": "2025-08-05",
+    "magnifici5": {
+      "P": [
+        {
+          "nome": "Di Gregorio",
+          "squadra": "Juventus",
+          "previsto_da": "FantaBot",
+          "rendimento_effettivo": null,
+          "fonte_dati": "Fantacalcio.it"
+        }
+      ],
+      "D": [],
+      "C": [],
+      "A": [],
+      "underdog": {
+        "nome": "Soulé",
+        "ruolo": "C",
+        "squadra": "Frosinone",
+        "previsto_da": "FantaBot",
+        "rendimento_effettivo": null,
+        "fonte_dati": "SOSFanta"
+      }
+    },
+    "formazione_consigliata": [],
+    "osservati_speciali": []
+  }
+]

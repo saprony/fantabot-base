@@ -19,9 +19,10 @@
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject",
-  "fetch:odds": "node scripts/fetch-odds.js",
   "update:ratings": "node scripts/update-team-ratings.js",
-  "publish:formation": "npm run update:ratings && npm run fetch:odds && node scripts/publish-formation.js --force"
+  "publish:formation": "node scripts/publish-formation.js --force",
+  "publish:top5": "node scripts/publish-top5.js --force",
+  "publish:all": "npm run update:ratings && node scripts/publish-formation.js --force && node scripts/publish-top5.js --force"
 },
   "eslintConfig": {
     "extends": [

@@ -2,16 +2,12 @@ name: Publish Formation
 
 on:
   schedule:
-    # Fetch odds alle 08:30 ora di Roma
     - cron: "30 6 * * 5"   # 06:30 UTC ≈ 08:30 Europe/Rome (ora legale)
-    - cron: "30 7 * * 5"   # 07:30 UTC ≈ 08:30 Europe/Rome (ora solare)
-    # Publish alle 09:00 ora di Roma
     - cron: "0 7 * * 5"    # 07:00 UTC ≈ 09:00 Europe/Rome (ora legale)
-    - cron: "0 8 * * 5"    # 08:00 UTC ≈ 09:00 Europe/Rome (ora solare)
-  workflow_dispatch: {}     # avvio manuale dal tab Actions
+  workflow_dispatch: {}     # bottone "Run workflow"
 
 permissions:
-  contents: write           # serve per fare commit con GITHUB_TOKEN
+  contents: write
 
 jobs:
   run:
@@ -21,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -35,29 +33,33 @@ jobs:
             npm install
           fi
 
-      # 1) Aggiorna i rating ClubElo (fallback, sempre utile)
+      # Aggiorna i rating (fallback se mancano le tue odds)
       - name: Update team ratings
-        run: node scripts/update-team-ratings.js
+        run: node scripts/update-team-ratings.js || echo "ratings skipped"
 
-      # 2) Scarica le quote (usa la secret ODDS_API_KEY)
-      - name: Fetch odds
-        run: node scripts/fetch-odds.js || echo "Odds fetch failed (fallback Elo)"
-        env:
-          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-
-      # 3) Pubblica la formazione (venerdì 09:00; lo script gestisce la finestra)
-      - name: Publish formation
-        run: node scripts/publish-formation.js
-
-      # 4) Commit & push solo se è cambiato qualcosa (il JSON pubblicato)
-      - name: Commit & push if changed
+      # Pubblica: se schedulato rispetta la finestra; se manuale forza
+      - name: Publish (scheduled)
+        if: github.event_name != 'workflow_dispatch'
         run: |
+          node scripts/publish-formation.js
+          node scripts/publish-top5.js
+
+      - name: Publish (manual force)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          node scripts/publish-formation.js --force
+          node scripts/publish-top5.js --force
+
+      - name: Commit & push if changed (with rebase)
+        run: |
+          git config user.name "FantaBot"
+          git config user.email "bot@users.noreply.github.com"
+          git fetch origin main
+          git pull --rebase origin main || true
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "FantaBot"
-            git config user.email "bot@users.noreply.github.com"
             git add -A
-            git commit -m "chore: publish formazione consigliata (auto)"
-            git push
+            git commit -m "chore: publish formazione + top5 (auto)"
+            git push origin HEAD:main
           else
             echo "Nessuna modifica."
           fi
